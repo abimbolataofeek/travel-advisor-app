@@ -11,6 +11,7 @@ import Map from './components/Map/Map';
 function App() {
   return (
     <>
+  
       <CssBaseline />
       <Header />
       <Grid container spacing={3} style={{ width: '100%' }}>
